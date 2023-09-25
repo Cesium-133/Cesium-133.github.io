@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.caesium.cn/2023/09/25/%E6%9B%B2%E7%8E%87%E5%8D%8A%E5%BE%84%E7%9A%84%E6%8E%A8%E5%AF%BC/</loc>
+    
+    <lastmod>2023-09-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.caesium.cn/about/index.html</loc>
     
     <lastmod>2023-09-24</lastmod>
@@ -58,22 +67,29 @@
 
   <url>
     <loc>http://www.caesium.cn/</loc>
-    <lastmod>2023-09-24</lastmod>
+    <lastmod>2023-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://www.caesium.cn/tags/%E3%80%90%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%91/</loc>
-    <lastmod>2023-09-24</lastmod>
+    <loc>http://www.caesium.cn/tags/%E3%80%90%E6%9D%82%E8%B0%88%E3%80%91/</loc>
+    <lastmod>2023-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.caesium.cn/tags/%E3%80%90%E6%9D%82%E8%B0%88%E3%80%91/</loc>
-    <lastmod>2023-09-24</lastmod>
+    <loc>http://www.caesium.cn/tags/%E3%80%90%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%91/</loc>
+    <lastmod>2023-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.caesium.cn/tags/%E3%80%90%E6%95%B0%E5%AD%A6%E3%80%91/</loc>
+    <lastmod>2023-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -81,15 +97,22 @@
 
   
   <url>
-    <loc>http://www.caesium.cn/categories/Reading-Notes/</loc>
-    <lastmod>2023-09-24</lastmod>
+    <loc>http://www.caesium.cn/categories/Others/</loc>
+    <lastmod>2023-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.caesium.cn/categories/Others/</loc>
-    <lastmod>2023-09-24</lastmod>
+    <loc>http://www.caesium.cn/categories/Reading-Notes/</loc>
+    <lastmod>2023-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.caesium.cn/categories/Maths/</loc>
+    <lastmod>2023-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
